@@ -1,4 +1,4 @@
-#React Todo App
+# React Todo App
 
 **To run this code properly follow the steps below**
 
