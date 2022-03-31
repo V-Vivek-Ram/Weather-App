@@ -1,0 +1,37 @@
+.card{
+    width: 400px;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    padding: 5px;
+    border: 1px solid black;
+    border-radius: 15px;
+    background-color: gray;
+}
+.image{
+    width: 350px;
+    height: 350px;
+}
+.cards{
+    align-items: justify;
+}
+.box{
+    align-items: center;
+    width: 500px;
+    height: 300px;
+    margin: auto;
+    border: 3px solid green;
+    border-radius: 15px;
+    padding: 2%;
+    margin-top: 5%;
+}
+.box2{
+    align-items: center;
+    width: 500px;
+    height: 300px;
+    margin: auto;
+    border: 3px solid green;
+    border-radius: 15px;
+    padding: 2%;
+    margin-top: 5%;
+    background-color: gray;
+}
